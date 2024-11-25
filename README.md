@@ -267,7 +267,6 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 
 
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
-- **Discord**: [Join our community to learn and grow together](https://discord.gg/36h5f2Z5PK)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/naveen-kammampati/)
 
 Thank you for your support, and I look forward to connecting with you!
